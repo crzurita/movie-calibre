@@ -20,10 +20,11 @@ class App extends Component {
 
   onSearchChange(e) {
     const search = e.currentTarget.value;
+    const searchPattern = new RegExp(search, 'i');
     if (search.length >= 2) {
       this.setState({
         ...this.state,
-        filteredMovies: this.state.movies.filter(movie => movie.title.match(search))
+        filteredMovies: this.state.movies.filter(movie => movie.title.match(searchPattern))
       })
     } else if(search === '') {
       this.setState({
