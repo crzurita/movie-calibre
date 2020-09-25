@@ -2,7 +2,7 @@ import React from 'react';
 import {withRouter} from 'react-router-dom';
 import './index.scss';
 
-export default withRouter(({location, isVisible = true, onSearchChange}) => {
+export default withRouter(({location, history, isVisible = true, onSearchChange}) => {
   
   return(
     <header className="header">
@@ -11,6 +11,11 @@ export default withRouter(({location, isVisible = true, onSearchChange}) => {
         <form className={`header__form header__form--${location.pathname.match('movie-detail') ? 'invisible' : 'visible'}`}>
           <input onChange={onSearchChange} className="form-input" type="text" placeholder="Search Movie" />
         </form>
+        <div 
+          style={{cursor: 'pointer', display: location.pathname.length > 1 ? 'block' : 'none'}}
+          onClick={history.goBack}>
+          <p>Go back</p>
+        </div>
       </div>
     </header>
   )
