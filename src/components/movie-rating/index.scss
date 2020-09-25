@@ -1,0 +1,16 @@
+.rating {
+  padding: 0;
+
+  &__list {
+    display: inline;
+    list-style: none;
+    margin-right: 10px;
+  }
+
+  &__star {
+    border: none;
+    background: transparent;
+    outline: none;
+    padding: 0;
+  }
+}

@@ -1,0 +1,27 @@
+.movie-details {
+
+  &__poster {
+
+    .movie-card {
+      margin: 0 auto;
+    }
+  }
+
+  &__feedback {
+    border-top: 1px solid #f6f5f5;
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  &__form {
+    max-width: 100%;
+  }
+
+  &__comment {
+    padding: 15px;
+  }
+
+  &__button-container {
+    text-align: right;
+  }
+}

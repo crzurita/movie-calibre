@@ -1,0 +1,30 @@
+.header {
+    background-color: black;
+    color: white;
+    padding: 25px;
+
+    &__title {
+        margin: 0;
+        position: absolute;
+      }
+    
+      &__searcher {
+        align-items: center;
+      }
+    
+      &__form {
+        margin: 0 auto;
+
+        &--visible {
+            visibility: visible;
+        }
+
+        &--invisible {
+            visibility: hidden;
+        }
+      }
+    
+      &__main {
+        margin-top: 20px;
+      }
+  }

@@ -1,0 +1,102 @@
+
+export default
+  [
+    {
+      "id": "1",
+      "image": "https://www.caratulas.com/peliculas/peliculas/G/Guardianes_De_La_Galaxia/Guardianes_De_La_Galaxia-Cartel.jpg",
+      "title": "Guardians of the Galaxy",
+      "year": "2017",
+      "rated": "PG-13",
+      "released_on": "2017-05-05",
+      "genre": "Action, Adventure, Comedy, Sci-Fi",
+      "director": "James Gunn",
+      "plot": "James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)",
+      "created_at": "2019-08-20T00:00:00+03:00",
+      "updated_at": "2019-08-20T00:00:00+03:00",
+      "userRating": 4
+    },
+    {
+      "id": "2",
+      "image": "https://www.caratulas.com/peliculas/peliculas/I/Interstellar/Interstellar-Cartel.jpg",
+      "title": "Interstellar",
+      "year": "2014",
+      "rated": "PG-13",
+      "released_on": "2014-11-07",
+      "genre": "Adventure, Drama, Sci-Fi",
+      "director": "Christopher Nolan",
+      "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "created_at": "2019-08-20T00:00:00+03:00",
+      "updated_at": "2019-08-20T00:00:00+03:00",
+      "userRating": 3
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiC3mSrAdG2_Tkuz5CbCm2TA-wYikac3dOPVlzb5jCk1gqsHOD",
+      "title": "Avengers: Endgame",
+      "year": "2019",
+      "rated": "PG-13",
+      "released_on": "2019-04-26",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Anthony Russo, Joe Russo",
+      "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "created_at": "2019-08-20T00:00:00+03:00",
+      "updated_at": "2019-08-20T00:00:00+03:00",
+      "userRating": 5
+    },
+    {
+      "id": "4",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJUXmK61D6xj8qitOW7G4EBJ0W6J1opB0KHB51jNXcLweHCr9s",
+      "title": "Toy Story 4",
+      "year": "2019",
+      "rated": "PG-13",
+      "released_on": "2019-06-21",
+      "genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "director": "Josh Cooley",
+      "plot": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+      "created_at": "2019-08-20T00:00:00+03:00",
+      "updated_at": "2019-08-20T00:00:00+03:00",
+      "userRating": 4
+    },
+    {
+      "id": "5",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5T11lO5NUu09B5i37f3QC6VQVRMs2kkTrcwnYV9A3y--NUgI5",
+      "title": "Star Wars: The Rise of Skywalker",
+      "year": "2019",
+      "rated": "PG-13",
+      "released_on": "2019-12-20",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "director": "J.J. Abrams",
+      "plot": "The surviving Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
+      "created_at": "2019-08-20T00:00:00+03:00",
+      "updated_at": "2019-08-20T00:00:00+03:00",
+      "userRating": 3
+    },
+    {
+      "id": "6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvrR2wjVfAucVBIaE048zDXv2G3cHCmxetx27P8HHsI7wr3yoJ",
+      "title": "Captain Marvel",
+      "year": "2019",
+      "rated": "PG-13",
+      "released_on": "2019-03-08",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Anna Boden, Ryan Fleck",
+      "plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+      "created_at": "2019-08-20T00:00:00+03:00",
+      "updated_at": "2019-08-20T00:00:00+03:00",
+      "userRating": 4
+    },
+    {
+      "id": "7",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUwilLyU4GtFBLzXkfM7f_KRep_7qXK9e30Zlix6JlO6DOoI82",
+      "title": "Spider-Man: Far From Home",
+      "year": "2019",
+      "rated": "PG-13",
+      "released_on": "2019-07-02",
+      "genre": "Action, Adventure, Sci-Fi",
+      "director": "Jon Watts",
+      "plot": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+      "created_at": "2019-08-20T00:00:00+03:00",
+      "updated_at": "2019-08-20T00:00:00+03:00",
+      "userRating": 4
+    }
+  ]
