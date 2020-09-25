@@ -18,7 +18,7 @@ if (process.env.NODE_ENV === 'production') {
 
   getMovies = () => axios.get(endpoint);
   getMovieById = id => axios.get(`${endpoint}/${id}`);
-  rateMovie = rate => axios.post(endpoint, rate);
+  rateMovie = rate => axios.post('http://localhost:8000/api/rates', rate);
 }
 
 export {
