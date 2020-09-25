@@ -13,7 +13,7 @@ export default
       "plot": "James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)",
       "created_at": "2019-08-20T00:00:00+03:00",
       "updated_at": "2019-08-20T00:00:00+03:00",
-      "userRating": 4
+      "user_rating": 4
     },
     {
       "id": "2",
@@ -27,7 +27,7 @@ export default
       "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
       "created_at": "2019-08-20T00:00:00+03:00",
       "updated_at": "2019-08-20T00:00:00+03:00",
-      "userRating": 3
+      "user_rating": 3
     },
     {
       "id": "3",
@@ -41,7 +41,7 @@ export default
       "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
       "created_at": "2019-08-20T00:00:00+03:00",
       "updated_at": "2019-08-20T00:00:00+03:00",
-      "userRating": 5
+      "user_rating": 5
     },
     {
       "id": "4",
@@ -55,7 +55,7 @@ export default
       "plot": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
       "created_at": "2019-08-20T00:00:00+03:00",
       "updated_at": "2019-08-20T00:00:00+03:00",
-      "userRating": 4
+      "user_rating": 4
     },
     {
       "id": "5",
@@ -69,7 +69,7 @@ export default
       "plot": "The surviving Resistance faces the First Order once more in the final chapter of the Skywalker saga.",
       "created_at": "2019-08-20T00:00:00+03:00",
       "updated_at": "2019-08-20T00:00:00+03:00",
-      "userRating": 3
+      "user_rating": 3
     },
     {
       "id": "6",
@@ -83,7 +83,7 @@ export default
       "plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
       "created_at": "2019-08-20T00:00:00+03:00",
       "updated_at": "2019-08-20T00:00:00+03:00",
-      "userRating": 4
+      "user_rating": 4
     },
     {
       "id": "7",
@@ -97,6 +97,6 @@ export default
       "plot": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
       "created_at": "2019-08-20T00:00:00+03:00",
       "updated_at": "2019-08-20T00:00:00+03:00",
-      "userRating": 4
+      "user_rating": 4
     }
   ]
